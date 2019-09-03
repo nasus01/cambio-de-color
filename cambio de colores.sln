@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cambio de colores", "cambio de colores\cambio de colores.csproj", "{52950988-E8E9-455B-BB1E-18E75198012D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52950988-E8E9-455B-BB1E-18E75198012D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52950988-E8E9-455B-BB1E-18E75198012D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52950988-E8E9-455B-BB1E-18E75198012D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52950988-E8E9-455B-BB1E-18E75198012D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B72476-DAE9-4100-B080-2ECAB68EAF07}
+	EndGlobalSection
+EndGlobal
